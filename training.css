@@ -1,0 +1,66 @@
+a:link{
+    color: crimson;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+:focus{
+    color: yellowgreen;
+}
+
+ul:first-child{
+    color: green;
+    border-bottom: none;
+}
+
+:only-child{
+    background-color: chartreuse;
+}
+
+line-height{
+
+}
+
+div{
+    overflow: scroll;
+}
+
+h4{
+    background-color: 
+    background-repeat:
+}
+
+li:nth-last-child(2n){
+    background: gray;
+}
+
+li:nth-of-type(2n)
+
+:disabled{
+    background-color: gray;
+}
+
+.intro::first-letter{
+    color: blue;
+
+}
+
+.phone::before{
+    content: "\2706";
+}
+
+p{
+    text-decoration: underline;
+    text-indent: ;
+    text-transform: capitalize;
+    text-shadow: 4px 4px 1px rgba(255,255,255,1.0);
+
+}
+
+@media scree
